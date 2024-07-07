@@ -1,0 +1,36 @@
+#gameContainer {
+    text-align: center;
+}
+
+#gameBoard {
+    border: 3px solid;
+    background-image: url('Image.png');
+    background-size: cover;
+    background-position: center;
+    background-color: transparent;
+}
+
+#scoreText {
+    font-family: "Permanent Marker", cursive;
+    font-size: 100px;
+}
+
+#resetBtn {
+    font-family: "Permanent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+body {
+    background-image: url('bg.jpg');
+    background-size: 1380px 700px;;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
